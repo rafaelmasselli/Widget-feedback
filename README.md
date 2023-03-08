@@ -2,19 +2,19 @@
 
 ## Descrição
 
-### Um widget de feedback que retorna um email para um email virtual
+Um widget de feedback que permite aos usuários enviar comentários ou sugestões através de um formulário online, que é processado e encaminhado automaticamente para um endereço de e-mail virtual específico. Isso ajuda a melhorar a comunicação e a eficiência do processo de feedback.
 
 ![gif do widget dando um feedback](/.github/WidgetDoProjeto.gif)
 
 ## 📝 Requisitos
 
-### para iniciar o projeto você vai precisar do <a href="https://nodejs.org/en/" target="_blank">Node js</a> para inicializar e do <a href="https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable" target="_blank">yarn</a> para instalar e iniciar o projeto
+ para iniciar o projeto você vai precisar do <a href="https://nodejs.org/en/" target="_blank">Node js</a> para inicializar e do <a href="https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable" target="_blank">yarn</a> para instalar e iniciar o projeto
 
-### para iniciar o projeto mobile e recomendado usar o <a href="https://expo.dev" target="_blank">expo</a>
+ para iniciar o projeto mobile e recomendado usar o <a href="https://expo.dev" target="_blank">expo</a>
 
-### Para clonar o projeto você vai precisar do <a href="https://git-scm.com" target="_blank">git</a>
+ Para clonar o projeto você vai precisar do <a href="https://git-scm.com" target="_blank">git</a>
 
-### IDE para mexer no código : <a href="https://code.visualstudio.com" target="_blank">Vscode</a>
+IDE para mexer no código : <a href="https://code.visualstudio.com" target="_blank">Vscode</a>
 
 ## Ferramentas usadas no desenvolvimento
 
